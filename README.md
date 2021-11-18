@@ -3,7 +3,7 @@ Basic spring application exampling crud operations
 
 # Description
 
-Basic spring boot applciation for handling the specified data structure  with basic functionalities like basic CRUD features, manipulating the data from the specified data structure, custom exception management, documentation of the available APIs with swagger 3, basic unit testing.
+Basic spring boot application for handling the specified data structure  with basic functionalities like basic CRUD features, manipulating the data from the specified data structure, custom exception management, documentation of the available APIs with swagger 3, basic unit testing.
 
 This demo application is made to handle a particular json format using spring boot rest APIs
 This application follows basic spring framework mvc containing controller classes, service classes and repository management
