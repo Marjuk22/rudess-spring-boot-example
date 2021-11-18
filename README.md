@@ -57,9 +57,10 @@ As there are multiple levels for the 'Activity' Entity, i implemented Activity t
 # Exception handling
 Implemented custom exception handling for backend api errors
 
-# Github share
+# Github shared
+ #AWS deployment in progress
 
-# AWS deployment in progress
+
 
 
 
