@@ -58,7 +58,7 @@ As there are multiple levels for the 'Activity' Entity, i implemented Activity t
 Implemented custom exception handling for backend api errors
 
 # Unit Testing
-Basic unit testing added in controller file to unit test the rest API's
+Basic unit testing added in ActivityControllerTest file
 
 # Github shared
  #AWS deployment in progress
